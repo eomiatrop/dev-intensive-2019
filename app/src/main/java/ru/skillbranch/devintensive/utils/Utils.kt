@@ -1,4 +1,4 @@
-package com.example.devintensive.utils
+package ru.skillbranch.devintensive.utils
 
 object Utils {
     fun ParceFullName(fullName: String?) : Pair<String?, String?> {
